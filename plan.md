@@ -9,3 +9,4 @@
 - [x] study zkp types ([link](research/zkp-types))
 - [x] study zk-snakr ([link](research/zk-snark))
 - [x] study about blockchain performance ([link](research/blockchain-performance))
+- [x] study zk-sync overview ([link](research/zksync-overview))
