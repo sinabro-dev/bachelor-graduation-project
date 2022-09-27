@@ -6,4 +6,5 @@
 ## COMPLETE
 - [x] study zero knowledge proof concept ([link](research/zkp-concept))
 - [x] study zkp types ([link](research/zkp-types))
-- [x] stduy zk-snakr ([link](research/zk-snark))
+- [x] study zk-snakr ([link](research/zk-snark))
+- [x] study about blockchain performance ([link](research/blockchain-performance))
