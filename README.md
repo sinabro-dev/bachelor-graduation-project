@@ -1,1 +1,1 @@
-# bachelor-graduation-project
+# 학사 졸업 프로젝트
