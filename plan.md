@@ -4,4 +4,5 @@
 - [ ] reality of rollup layer2's instant confirmation and finality
 
 ## COMPLETE
-- [x] study zero knowledge proof concept
+- [x] study zero knowledge proof concept ([link](research/zkp-concept))
+- [x] study zkp types ([link](research/zkp-types))

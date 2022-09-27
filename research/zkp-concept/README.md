@@ -8,7 +8,7 @@
 
 우선 영지식 증명의 주 목표는 **Secret을 갖고 있는 Prover는 이를 그 누구에게도 공개하지 않고, Verifier에게 자신이 Secret을 알고 있다는 것만을 증명**하는 것이다. 비교적 친근한 알리바바의 동굴 예제로 포문을 열어보자.
 
-![](ali-baba-cave.png "알리바바의 동굴")
+![](images/ali-baba-cave.png "알리바바의 동굴")
 
 - Prover (증명자) - 분홍색 옷을 입은 사람
 - Verifier (검증자) - 초록색 옷을 입은 사람
