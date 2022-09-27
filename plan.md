@@ -4,6 +4,7 @@
 - [ ] reality of rollup layer2's instant confirmation and finality
 
 ## COMPLETE
+- [x] study about ethereum scalability with layer2 ([link](research/ethereum-scalability-with-layer2))
 - [x] study zero knowledge proof concept ([link](research/zkp-concept))
 - [x] study zkp types ([link](research/zkp-types))
 - [x] study zk-snakr ([link](research/zk-snark))
