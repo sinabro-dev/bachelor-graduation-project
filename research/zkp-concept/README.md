@@ -166,7 +166,7 @@ $$
 
 Order of $a \pmod n$ 와 $\varnothing(n)$ 이 같은 경우, $a$ 를 $n$ 의 원시근이라고 부른다. 예를 들어 소수 19의 원시근은 2, 3, 10, 13, 14, 15 이다.
 
-![](modulo-19.png "Modulo 19")
+![](images/modulo-19.png "Modulo 19")
 
 ### Discrete Logarithm
 

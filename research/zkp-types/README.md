@@ -80,7 +80,7 @@ Prover가 Verifier에게 증거를 보낸 후에 Verifier가 증거를 검증할
 
 가장 대표적인 비대화형 영지식 증명 시스템인 zk-SNARKs를 간략하게 살펴보려 한다. zk-SNARKs에서 Prover는 Verifier에게 증거를 한 번만 제출하면 된다. (zk-SNARK; Zero-Knowledge Succinct Non-Interactive Argument of Knowledge)
 
-![](zk-snark-brief-structure.png)
+![](images/zk-snark-brief-structure.png)
 
 zk-SNARKs에는 상호 합의하여 신뢰해야 하는 제 3자 (Trusted Party) 가 존재한다. Trusted Party는 Prover가 증거를 만들고, Verifier가 증거를 검사할 때 필요한 정보를 제공한다. Prover는 Trusted Party가 준 정보를 토대로 증거를 만들어 Verifier에게 전송한다. 그리고 Verifier는 계산을 통해 증거가 옳은지 옳지 않은지 검증한다. 이때 Prover는 Verifier에게 증거를 전송한 뒤 추가적인 메시지를 보낼 필요가 없다.
 
