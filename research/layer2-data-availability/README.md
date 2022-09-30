@@ -1,4 +1,5 @@
-## How Tx Stored (L2 -> L1)
+## Optimism
+### How Tx Stored (L2 -> L1)
 [Optimism 공식 문서](https://community.optimism.io/docs/protocol/protocol-2.0/#canonicaltransactionchain-ctc)에 들어가보면, 어떤 방식으로 L2의 트랜잭션들을 L1로 저장하는지 대략적으로 기술되어 있다.
 타 Layer 2와 비교하여 Rollup이 가지는 강점이 Data Availability이기 때문에 이를 어떻게 구현하였는지 확인해보아야 한다.
 

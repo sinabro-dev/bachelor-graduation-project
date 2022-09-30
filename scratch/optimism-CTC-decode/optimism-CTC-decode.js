@@ -73,11 +73,4 @@ const output = decode(input)
 
 console.log("[output]")
 console.log(output)
-
-console.log("[context]")
-console.log(output.contexts)
-
-console.log("[transactions]")
-console.log(output.transactions)
-
-console.log("### check exactly data with debugger")
+console.log("... check more exactly data with debugger")
