@@ -176,7 +176,6 @@ Data 필드는 Function Identifier, Argument 등 함수 호출에 필요한 데�
 당연하게도 이런 경우 `memory`를 사용하면 더 많은 Gas가 필요하게 된다.
 
 ## Optimistic Rollup
-
 ### How Fees Work
 Optimistic Rollup은 Ethereum처럼 Gas Fee 스키마를 채택했다. 트랜잭션 Fee는 동작하는 작업에 따라 달라지게 된다.
 1. L2에서 발생한 트랜잭션 데이터와 블록 헤더 (Prev. 블록 헤더 Hash, State Root, Batch Root) 를 L1인 이더리움 Calldata에 제출한다.

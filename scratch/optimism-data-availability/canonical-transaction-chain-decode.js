@@ -17,7 +17,7 @@ function decode(input) {
     const calldata = Buffer.from(input, "hex")
     let ptr = 0
 
-    const sighash = bufToHexStr(calldata.subarray(0, ptr + 4))
+    const sighash = bufToHexStr(calldata.subarray(ptr, ptr + 4))
     ptr += 4
 
     const shouldStartAtElement = bufToInt(calldata.subarray(ptr, ptr + 5))
